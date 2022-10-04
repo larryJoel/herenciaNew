@@ -1,0 +1,15 @@
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\HerenciaModificadores\bin\Debug\net6.0\HerenciaModificadores.exe
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\HerenciaModificadores\bin\Debug\net6.0\HerenciaModificadores.deps.json
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\HerenciaModificadores\bin\Debug\net6.0\HerenciaModificadores.runtimeconfig.json
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\HerenciaModificadores\bin\Debug\net6.0\HerenciaModificadores.dll
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\HerenciaModificadores\bin\Debug\net6.0\HerenciaModificadores.pdb
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\HerenciaModificadores\obj\Debug\net6.0\HerenciaModificadores.csproj.AssemblyReference.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\HerenciaModificadores\obj\Debug\net6.0\HerenciaModificadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\HerenciaModificadores\obj\Debug\net6.0\HerenciaModificadores.AssemblyInfoInputs.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\HerenciaModificadores\obj\Debug\net6.0\HerenciaModificadores.AssemblyInfo.cs
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\HerenciaModificadores\obj\Debug\net6.0\HerenciaModificadores.csproj.CoreCompileInputs.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\HerenciaModificadores\obj\Debug\net6.0\HerenciaModificadores.dll
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\HerenciaModificadores\obj\Debug\net6.0\refint\HerenciaModificadores.dll
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\HerenciaModificadores\obj\Debug\net6.0\HerenciaModificadores.pdb
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\HerenciaModificadores\obj\Debug\net6.0\HerenciaModificadores.genruntimeconfig.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\HerenciaModificadores\obj\Debug\net6.0\ref\HerenciaModificadores.dll
